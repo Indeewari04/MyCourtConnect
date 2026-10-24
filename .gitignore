@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+*.sql
+*.zip
+
+.vscode/
+.idea/
+
+*.log
+config/db.php
